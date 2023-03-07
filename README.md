@@ -1,5 +1,5 @@
 # XU100-PREDICT
-USAGE
+
 
 -It was tried to estimate how interconnected the four financial variables are with these regression analyses.
 
